@@ -1,0 +1,16 @@
+# Python environment dependencies for CMSL-Cosmology
+# Tested with Python 3.10.12
+
+# Core scientific libraries
+numpy==1.24.4
+scipy==1.10.1
+matplotlib==3.7.1
+h5py==3.8.0
+
+# Cosmology and MCMC analysis tools
+getdist==1.4.6
+corner==2.2.2
+
+# Optional: Jupyter for analysis
+jupyter==1.0.0
+pandas==2.0.3
