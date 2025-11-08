@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Datos grandes
+data/chains/**/*.txt
+data/chains/**/*.npz
+
+# Archivos temporales
+*.log
+*.out
+*~
+.DS_Store
